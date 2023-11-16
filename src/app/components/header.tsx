@@ -33,7 +33,7 @@ export default function Header() {
           <span className="text-sm">Account</span>
           <Image
             src="https://github.com/BBML-DEV.png"
-            className="h-6 w-6 rounded-full"
+            className="h-6 w-6 rounded-full outline outline-offset-2 outline-teal-500"
             width={24}
             height={24}
             alt=""
